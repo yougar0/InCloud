@@ -1,0 +1,15 @@
+http://chat.96138.com.cn
+http://cloud-oss-test.gdrcu.com
+http://emall.96138.com.cn
+http://ibank.96138.com.cn
+https://cloud-oss-test.gdrcu.com:3000
+https://ebanks.96138.com.cn
+https://emall.96138.com.cn
+https://epay.96138.com.cn
+https://gwapi.96138.com.cn
+https://ibank.96138.com.cn
+https://mail.gdrcu.com
+https://pay.gdrcu.com
+https://test1mall.96138.com.cn:8080
+https://test1mall.96138.com.cn:8443
+https://testpay.96138.com.cn:8443
